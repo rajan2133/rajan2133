@@ -30,11 +30,3 @@ B.Tech Computer Engineer specialization in AI
 <a href="http://www.github.com/rajan2133"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan2133&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/rajan2133" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajan2133&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/rajan2133/COVID-19-Data-Analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajan2133&repo=COVID-19-Data-Analysis&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/rajan2133/MLOps " align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajan2133&repo=MLOps &title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/rajan2133/TechnoHacks-Intern" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajan2133&repo=TechnoHacks-Intern&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/rajan2133/FINANCE-Data-Analysis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajan2133&repo=FINANCE-Data-Analysis&title_color=ef444
