@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rajan Patel
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Rajan Patel
 ===================================================================================================================================
 
 Computer Engineer
@@ -7,11 +7,11 @@ Computer Engineer
 B.Tech Computer Engineer specialization in AI
 
 * 🌍  I'm based in Open Source Contributions.
-* ✉️  You can contact me at [rajan2132003@gmail.com](mailto:rajan2132003@gmail.com)
+* ✉️  Reach me at: [rajan2132003@gmail.com](mailto:rajan2132003@gmail.com)
 * 🤝  I'm open to collaborating on Let's talk about coding, tech, or anything under the sun!
 * ⚡  Ask me about anything! I'm always up for a good tech chat.
 
-### Skills
+### Technology Stack
 
 
 <p align="left">
