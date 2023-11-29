@@ -22,8 +22,6 @@ B.Tech Computer Engineer specialization in AI
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajan2133&show_icons=true&locale=en&layout=compact" alt="rajan2133" /></p>
 
-<a href="http://www.github.com/rajan2133"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan2133&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/rajan2133" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajan2133&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajan2133&show_icons=true&locale=en" alt="rajan2133" /></p>
