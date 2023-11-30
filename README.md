@@ -26,4 +26,4 @@ B.Tech Computer Engineer specialization in AI
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajan2133&show_icons=true&locale=en" alt="rajan2133" /></p>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=het0808&label=Profile%20views&color=0e75b6&style=flat" alt="het0808" /> </p>
