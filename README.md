@@ -3,7 +3,7 @@
 
 B.Tech Computer Engineer specialization in AI
 
-<img align="right" alt="coding" width="270" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+<img align="right" alt="coding" width="270" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/media/189931803af24fea969fe9d0b6631431.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan2133&label=Profile%20views&color=0e75b6&style=flat" alt="rajan2133" /> </p>
 
