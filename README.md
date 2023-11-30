@@ -1,15 +1,14 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="celebration gif"> I'm Rajan Patel</h1>
-===================================================================================================== 
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="celebration gif">, I'm Rajan Patel</h1>
 
-Computer Engineer
------------------
+<h3 align="center">A passionate Computer Engineer</h3>
 
 B.Tech Computer Engineer specialization in AI
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=het0808&label=Profile%20views&color=0e75b6&style=flat" alt="het0808" /> </p>
 
 * 🌍  I'm based in Open Source Contributions.
-* ✉️  Reach me at: [rajan2132003@gmail.com](mailto:rajan2132003@gmail.com)
 * 🤝  I'm open to collaborating on Let's talk about coding, tech, or anything under the sun!
 * ⚡  Ask me about anything! I'm always up for a good tech chat.
+* ✉️  Reach me at: [rajan2132003@gmail.com](mailto:rajan2132003@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +25,3 @@ B.Tech Computer Engineer specialization in AI
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajan2133&show_icons=true&locale=en" alt="rajan2133" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=het0808&label=Profile%20views&color=0e75b6&style=flat" alt="het0808" /> </p>
