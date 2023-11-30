@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Computer Engineer</h3>
 
 B.Tech Computer Engineer specialization in AI
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=het0808&label=Profile%20views&color=0e75b6&style=flat" alt="het0808" /> </p>
+<img align="right" alt="coding" width="310" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan2133&label=Profile%20views&color=0e75b6&style=flat" alt="rajan2133" /> </p>
 
 * 🌍  I'm based in Open Source Contributions.
 * 🤝  I'm open to collaborating on Let's talk about coding, tech, or anything under the sun!
