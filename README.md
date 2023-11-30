@@ -25,3 +25,5 @@ B.Tech Computer Engineer specialization in AI
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajan2133&show_icons=true&locale=en&layout=compact" alt="rajan2133" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajan2133&show_icons=true&locale=en" alt="rajan2133" /></p>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
