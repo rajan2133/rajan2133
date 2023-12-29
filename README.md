@@ -28,4 +28,3 @@ B.Tech Computer Engineer specialization in AI
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajan2133&" alt="rajan2133" /></p>
 
-![snake gif](https://github.com/rajan2133/rajan2133/blob/output/github-contribution-grid-snake.gif)
