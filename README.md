@@ -8,7 +8,7 @@ B.Tech Computer Engineer specialization in AI
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan2133&label=Profile%20views&color=0e75b6&style=flat" alt="rajan2133" /> </p>
 
 * 🌍  I'm based in Open Source Contributions.
-* 🤝  I'm open to collaborating on Let's talk about coding, tech, or anything under the sun!
+* 🤝  I'm open to collaborating on Let's talk about coding, tech, or specially data!
 * ⚡  Ask me about anything! I'm always up for a good tech chat.
 * ✉️  Reach me at: [rajan21033@gmail.com](mailto:rajan21033@gmail.com)
 
